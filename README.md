@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-This is Tic Tac Toe game as we know it, implemented in Python &amp; Pygame. 
+Implemented in Python &amp; Pygame. 
+It consists of noughts and crosses or Xs and Os and is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. 

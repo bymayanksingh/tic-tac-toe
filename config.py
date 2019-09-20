@@ -1,0 +1,10 @@
+black = (0, 0, 0)
+white = (255, 255, 255)
+rows = 3
+cols = 3
+squaresize = 250
+width = cols * squaresize
+height = rows * squaresize
+size = (width, height)
+game_over = False
+turn = 0
